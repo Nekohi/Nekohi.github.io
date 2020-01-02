@@ -1,0 +1,44 @@
+<manifest alg="2" build="2018.1.1.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="nekohi.com" resolutions="1x" timestamp="1577949518311">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-__.css" crc="297337781" ref="index:2d"/>
+    <file name="index.css" crc="464631338" ref="index"/>
+    <file name="2d.css" crc="3878067242" ref="2d"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:2d"/>
+    <file name="museutils.js" crc="3939489907" ref="index:2d"/>
+    <file name="whatinput.js" crc="86476730" ref="index:2d"/>
+    <file name="museconfig.js" crc="128606099" ref="index:2d"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:2d"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="require.js" crc="4177726516" ref="index:2d"/>
+  </folder>
+  <folder name="images">
+    <file name="靈光載體3-crop-u648.jpg" crc="3760267667" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u647-4.png" crc="219499734" ref="index"/>
+    <file name="u651-6.png" crc="355199665" ref="index"/>
+    <file name="靈光載體2-crop-u666.jpg" crc="3963816239" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="靈光載體3-crop-u668.jpg" crc="4113306882" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u766-4.png" crc="4034080133" ref="2d"/>
+    <file name="0001-crop-u736.jpg" crc="4163866727" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+    <file name="0003.jpg" crc="408372433" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="209352583" seo="true" mt="1577949448158" redirect="true"/>
+  <file name="2d.html" crc="194693365" seo="true" mt="1577879072476" redirect="true"/>
+</manifest>

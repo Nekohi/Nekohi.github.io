@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://nekohi.com/index.html</loc>
+    <lastmod>2020-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nekohi.com/images/%E9%9D%88%E5%85%89%E8%BC%89%E9%AB%943-crop-u648.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nekohi.com/images/%E9%9D%88%E5%85%89%E8%BC%89%E9%AB%942-crop-u666.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nekohi.com/images/%E9%9D%88%E5%85%89%E8%BC%89%E9%AB%943-crop-u668.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://nekohi.com/2d.html</loc>
+    <lastmod>2020-01-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://nekohi.com/images/0001-crop-u736.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://nekohi.com/images/0003.jpg</image:loc>
+    </image:image>
+  </url>
+</urlset>
